@@ -1,0 +1,13 @@
+name = "SeeAllotments"
+uuid = "b71e4df9-c9e3-4caf-a851-3ab6cf54a5d7"
+authors = ["Thura Z."]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
